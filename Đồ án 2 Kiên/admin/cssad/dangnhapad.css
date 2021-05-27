@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+}
+.dangnhap{
+    width: 330px;
+    height: 450px;
+    border: 1px solid ;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 100px;
+    background-color:rgb(99, 230, 240);
+}
+.dangnhap img{
+    width: 200px;
+    height: 150px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 20px;
+}
+.dangnhap input{
+    width: 300px ;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.dangnhap button{
+    width: 300px;
+    padding: 5px;
+    background-color: green;
+    font-size: 25px;
+    opacity: 0.85;
+}
+.dangnhap button:hover{
+    opacity: 1;
+}
+marquee{
+    color:maroon;
+}
